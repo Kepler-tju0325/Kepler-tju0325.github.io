@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "陈壮壮"
+  name             : "王兴宾"
   pronouns         : # example: "she/her"  
-  bio              : "电子信息专业研究生，研究方向为具身智能安全、大模型安全与AI处理器安全架构"
+  bio              : "教授｜硕士生导师、博士生导师"
   location         : "Tianjin, China"
   employer         : "Tianjin University"
   uri              : # URL
-  email            : "2631063644@qq.com" 
+  email            : "wangxingbin@tju.edu.cn" 
 
   # Academic websites
   academia         : # URL
