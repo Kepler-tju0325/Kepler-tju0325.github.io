@@ -64,8 +64,8 @@ ACM TECS 2024 · **CCF-B**
 
 Graduate students are supervised in the areas of AI processor security, embodied intelligence security, and large language model security.
 
-- [Ph.D. Student 1](https://replace-with-student-1-homepage)
-- [Ph.D. Student 2](https://replace-with-student-2-homepage)
+- [Kang Li](https://likang.github.io)
+- [Haosheng Liang](https://lianghaosheng.github.io)
 
 ## Contact
 
