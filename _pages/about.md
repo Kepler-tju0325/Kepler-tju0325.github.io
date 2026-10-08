@@ -59,8 +59,8 @@ ACM TECS 2024 · **CCF-B**
 
 指导研究生围绕人工智能处理器安全、具身智能安全、大模型安全等方向开展研究。
 
-- [博士生师兄 1](https://这里填写师兄1主页)
-- [博士生师兄 2](https://这里填写师兄2主页)
+- [李康](https://likang.github.io)
+- [梁灏生](https://lianghaosheng.github.io)
 
 ## Contact
 
