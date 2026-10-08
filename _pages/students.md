@@ -6,8 +6,8 @@ author_profile: true
 
 ## Ph.D. Students
 
-- [博士生师兄 1](https://这里填写师兄1主页)
-- [博士生师兄 2](https://这里填写师兄2主页)
+- [李康](https://likang.github.io)
+- [梁灏生](https://lianghaosheng.github.io)
 
 ## Research Areas
 
