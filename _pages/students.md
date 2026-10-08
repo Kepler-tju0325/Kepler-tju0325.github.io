@@ -6,8 +6,8 @@ author_profile: true
 
 ## Ph.D. Students
 
-- [Ph.D. Student 1](https://replace-with-student-1-homepage)
-- [Ph.D. Student 2](https://replace-with-student-2-homepage)
+- [Kang Li](https://likang.github.io)
+- [Haosheng Liang](https://lianghaosheng.github.io)
 
 ## Research Areas
 
