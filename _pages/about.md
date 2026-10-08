@@ -1,73 +1,62 @@
 ---
 permalink: /
-title: "About Me"
+title: "AI-Arch Lab"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
-Xingbin Wang is a Professor at the **School of Cyber Security, Tianjin University**, and serves as a graduate advisor for both Master's and Ph.D. students.
+# AI-Arch Lab
 
-His research focuses on **AI processor security architecture, secure computing chips for embodied intelligence, embodied intelligence security, and large language model security**. His work also covers adversarial attacks and defenses and privacy inference for large language models.
+## AI Architecture & Security Laboratory
 
-He has published more than 10 papers at leading international conferences and journals, including **ASPLOS, ISCA, IEEE TCAD, DAC, DATE, ACM TECS, and CF**. He has received support as Principal Investigator from the **General Program of the National Natural Science Foundation of China (NSFC)** and the **Chinese Academy of Sciences (CAS) Special Research Assistant Program**. He has also participated as a key member in projects including the **CAS Class-C Strategic Priority Research Program** and the **Beijing Science and Technology Program**.
+**School of Cyber Security, Tianjin University**
 
-## Research Interests
+AI-Arch Lab focuses on the security of artificial intelligence systems, AI processors, embodied intelligence, and large language models.
 
-### AI Processor Security Architecture
+Our research interests include:
 
-Research on security architectures for AI processors and deep neural network accelerators, including model protection and hardware-software co-design for secure AI computing.
+- AI processor security architecture
+- Embodied intelligence security
+- Secure computing chips for embodied intelligence
+- Large language model security
+- Adversarial attack and defense
+- Privacy and security of AI systems
 
-### Embodied Intelligence Security
+## Principal Investigator
 
-Research on security issues in embodied intelligence systems, with a focus on secure computing chips, computing platforms, and intelligent agents.
+### Xingbin Wang
 
-### Large Language Model Security
+Professor, School of Cyber Security, Tianjin University
 
-Research on security and privacy issues in large language model deployment and inference, including privacy inference and related protection mechanisms.
+Graduate Advisor for Master's and Ph.D. Students
 
-### Adversarial Attack and Defense
+Email: wangxingbin@tju.edu.cn
 
-Research on adversarial attacks and defenses for artificial intelligence models, as well as secure architectures for AI accelerators.
+## Research
 
-## Education
+Our group studies security problems across AI models, computing architectures, and intelligent systems, with an emphasis on the co-design of AI computing and security.
 
-**Ph.D. in Engineering**  
-Doctoral Studies
+## Publications
 
-## Professional Experience
+Our research has been published at ASPLOS, ISCA, IEEE TCAD, DAC, DATE, ACM TECS, CF, and other international conferences and journals.
 
-**Institute of Information Engineering, Chinese Academy of Sciences**  
-Deputy Researcher, 2021–Present
+[View Publications →](/publications/)
 
-**Institute of Automation, Chinese Academy of Sciences**  
-Engineer, 2014–2017
+## Projects
 
-## Selected Publications
+Our group participates in and leads research projects supported by the National Natural Science Foundation of China, the Chinese Academy of Sciences, and the Beijing Science and Technology Program.
 
-**DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks**  
-ASPLOS 2020 · **CCF-A**
+[View Projects →](/projects/)
 
-**NASGuard: A Novel Accelerator Architecture for Robust NAS Networks**  
-ISCA 2021 · **CCF-A**
+## Members
 
-**EnsGuard: A Novel Acceleration Framework for Adversarial Ensemble Learning**  
-IEEE TCAD 2024 · **CCF-A**
+The AI-Arch Lab consists of faculty members and graduate students working on AI security, AI processor architecture, embodied intelligence security, and large language model security.
 
-**A Hybrid Sparse-Dense Defensive DNN Accelerator Architecture against Adversarial Example Attacks**  
-ACM TECS 2024 · **CCF-B**
-
-[View all publications →](/publications/)
-
-## Students
-
-Graduate students are supervised in the areas of AI processor security, embodied intelligence security, and large language model security.
-
-- [Kang Li](https://likang.github.io)
-- [Haosheng Liang](https://lianghaosheng.github.io)
+[View Members →](/members/)
 
 ## Contact
 
-**School:** School of Cyber Security, Tianjin University  
-**Email:** wangxingbin@tju.edu.cn
+AI-Arch Lab  
+School of Cyber Security  
+Tianjin University
+
+Email: wangxingbin@tju.edu.cn
