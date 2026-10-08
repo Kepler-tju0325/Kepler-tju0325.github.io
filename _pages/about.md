@@ -95,8 +95,8 @@ redirect_from:
 
 目前指导研究生开展人工智能安全、AI 芯片安全及具身智能安全相关研究。
 
-- [博士生师兄 1](https://这里填写师兄1主页)
-- [博士生师兄 2](https://这里填写师兄2主页)
+- [李康](https://likang.github.io)
+- [梁灏生](https://lianghaosheng.github.io)
 
 ---
 
