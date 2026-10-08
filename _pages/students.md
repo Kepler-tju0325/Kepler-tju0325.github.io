@@ -4,8 +4,6 @@ permalink: /students/
 author_profile: true
 ---
 
-# Students
-
 ## Ph.D. Students
 
 - [博士生师兄 1](https://这里填写师兄1主页)

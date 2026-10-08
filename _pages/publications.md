@@ -4,7 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 ## 2024
 
 ### EnsGuard: A Novel Acceleration Framework for Adversarial Ensemble Learning
