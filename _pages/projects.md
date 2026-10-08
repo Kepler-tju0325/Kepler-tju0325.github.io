@@ -6,16 +6,18 @@ author_profile: true
 
 ## National Natural Science Foundation of China
 
-作为项目负责人，获得国家自然科学基金面上项目资助。
+Principal Investigator, **General Program of the National Natural Science Foundation of China (NSFC)**.
+
+Research topics include AI processor security architecture and AI system security.
 
 ## Chinese Academy of Sciences
 
-作为项目负责人，获得中国科学院特别研究助理项目资助。
+Principal Investigator, **Chinese Academy of Sciences Special Research Assistant Program**.
 
-## Strategic Priority Research Program of the Chinese Academy of Sciences
+## CAS Class-C Strategic Priority Research Program
 
-作为核心骨干参与中科院 C 类战略先导项目。
+Key member of the **Class-C Strategic Priority Research Program of the Chinese Academy of Sciences**.
 
 ## Beijing Science and Technology Program
 
-作为核心骨干参与北京市科技计划项目。
+Key member of projects supported by the **Beijing Science and Technology Program**.

@@ -4,7 +4,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-## 王兴宾
+## Xingbin Wang
 
 **Professor**  
 **School of Cyber Security, Tianjin University**
@@ -15,7 +15,7 @@ author_profile: true
 
 - AI Processor Security Architecture
 - Embodied Intelligence Security
-- Embodied Intelligence Security Computing Chips
+- Secure Computing Chips for Embodied Intelligence
 - Large Language Model Security
-- Adversarial Attack and Defense
-- Large Language Model Privacy Inference
+- Adversarial Attacks and Defenses
+- Privacy Inference for Large Language Models

@@ -6,37 +6,37 @@ author_profile: true
 
 ## AI Processor Security Architecture
 
-研究人工智能处理器、深度神经网络加速器及相关计算平台的安全架构。
+Research on security architectures for AI processors, deep neural network accelerators, and related computing platforms.
 
-重点方向包括：
+Key topics include:
 
-- AI 处理器安全架构
-- DNN 加速器安全
-- 模型攻击与防护
-- 软硬件协同安全机制
+- AI processor security architecture
+- DNN accelerator security
+- Model attacks and protection
+- Hardware-software co-design for secure AI computing
 
 ## Embodied Intelligence Security
 
-面向具身智能系统及其计算平台，研究具身智能安全计算芯片和智能体安全。
+Research on security issues in embodied intelligence systems and their computing platforms, with an emphasis on secure computing chips and intelligent agents.
 
-重点方向包括：
+Key topics include:
 
-- 具身智能安全
-- 具身智能安全计算芯片
-- AI 计算平台安全
-- 感知、决策与执行过程中的安全问题
+- Embodied intelligence security
+- Secure computing chips for embodied intelligence
+- AI computing platform security
+- Security of perception, decision-making, and execution
 
 ## Large Language Model Security
 
-研究大模型部署和推理过程中的安全与隐私问题。
+Research on security and privacy issues in large language model deployment and inference.
 
-重点方向包括：
+Key topics include:
 
-- 大模型安全
-- 大模型隐私推理
-- 模型逆向攻击
-- AI 模型保护
+- Large language model security
+- Privacy inference for large language models
+- Model inversion attacks
+- AI model protection
 
 ## Adversarial Attack and Defense
 
-研究人工智能模型面临的对抗样本攻击与防御，并探索面向 AI 加速器的安全架构。
+Research on adversarial attacks and defenses for AI models, together with secure architectural support for AI accelerators.

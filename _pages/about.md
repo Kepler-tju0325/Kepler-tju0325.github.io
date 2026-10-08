@@ -7,37 +7,42 @@ redirect_from:
   - /about.html
 ---
 
-王兴宾，教授，硕士生导师、博士生导师，现任**天津大学网络安全学院**教师。
+Xingbin Wang is a Professor at the **School of Cyber Security, Tianjin University**, and serves as a graduate advisor for both Master's and Ph.D. students.
 
-主要从事人工智能处理器安全架构、具身智能安全计算芯片、具身智能安全、大模型安全等方向的研究。研究工作还涉及对抗样本攻击与防御、大模型隐私推理等问题。
+His research focuses on **AI processor security architecture, secure computing chips for embodied intelligence, embodied intelligence security, and large language model security**. His work also covers adversarial attacks and defenses and privacy inference for large language models.
 
-近年来，在 ASPLOS、ISCA、TCAD、DAC、DATE、TECS、CF 等国内外高水平会议和期刊上发表论文 10 余篇。作为项目负责人，获得国家自然科学基金面上项目、中国科学院特别研究助理项目的资助；作为核心骨干，参与中科院 C 类战略先导项目、北京市科技计划项目等。
+He has published more than 10 papers at leading international conferences and journals, including **ASPLOS, ISCA, IEEE TCAD, DAC, DATE, ACM TECS, and CF**. He has received support as Principal Investigator from the **General Program of the National Natural Science Foundation of China (NSFC)** and the **Chinese Academy of Sciences (CAS) Special Research Assistant Program**. He has also participated as a key member in projects including the **CAS Class-C Strategic Priority Research Program** and the **Beijing Science and Technology Program**.
 
 ## Research Interests
 
 ### AI Processor Security Architecture
 
-面向人工智能处理器和深度神经网络加速器，研究安全架构设计、模型保护以及软硬件协同安全机制。
+Research on security architectures for AI processors and deep neural network accelerators, including model protection and hardware-software co-design for secure AI computing.
 
 ### Embodied Intelligence Security
 
-面向具身智能系统的安全需求，研究具身智能安全计算芯片、计算平台及智能体安全。
+Research on security issues in embodied intelligence systems, with a focus on secure computing chips, computing platforms, and intelligent agents.
 
 ### Large Language Model Security
 
-研究大模型部署与推理过程中的安全和隐私问题，关注大模型隐私推理及相关安全机制。
+Research on security and privacy issues in large language model deployment and inference, including privacy inference and related protection mechanisms.
 
 ### Adversarial Attack and Defense
 
-研究对抗样本攻击与防御，以及面向人工智能加速器的安全防护架构。
+Research on adversarial attacks and defenses for artificial intelligence models, as well as secure architectures for AI accelerators.
 
-## Work Experience
+## Education
 
-**中国科学院信息工程研究所**  
-副研究员，2021–至今
+**Ph.D. in Engineering**  
+Doctoral Studies
 
-**中国科学院自动化研究所**  
-工程师，2014–2017
+## Professional Experience
+
+**Institute of Information Engineering, Chinese Academy of Sciences**  
+Deputy Researcher, 2021–Present
+
+**Institute of Automation, Chinese Academy of Sciences**  
+Engineer, 2014–2017
 
 ## Selected Publications
 
@@ -57,10 +62,10 @@ ACM TECS 2024 · **CCF-B**
 
 ## Students
 
-指导研究生围绕人工智能处理器安全、具身智能安全、大模型安全等方向开展研究。
+Graduate students are supervised in the areas of AI processor security, embodied intelligence security, and large language model security.
 
-- [李康](https://likang.github.io)
-- [梁灏生](https://lianghaosheng.github.io)
+- [Ph.D. Student 1](https://replace-with-student-1-homepage)
+- [Ph.D. Student 2](https://replace-with-student-2-homepage)
 
 ## Contact
 

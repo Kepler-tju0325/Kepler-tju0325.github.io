@@ -86,6 +86,6 @@ author_profile: true
 
 **Xingbin Wang**, Jun Zhang, Shuaihui Wang.
 
-*Chinese Journal of Electronics, 2019, 28(5): 1080-1086.*
+*Chinese Journal of Electronics, 2019, 28(5): 1080–1086.*
 
 **SCI**
