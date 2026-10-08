@@ -4,7 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
 
 ## 2024
 
